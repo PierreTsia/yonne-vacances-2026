@@ -4,6 +4,8 @@
 > *Votre avis est essentiel pour que personne ne finisse affamé ou frustré !*
 
 **Dates :** 30/03 au 06/04 | **Participants :** Pierre, Virginie (Végétarienne), François.
+## 📖 Accès rapide aux recettes
+[Consultez les recettes pas à pas ici](RECETTES.md)
 
 ---
 
