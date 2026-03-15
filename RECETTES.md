@@ -2,20 +2,23 @@
 
 ---
 
-## 🍝 Lasagnes Maison (Base Végé & Bolognaise à part)
-*Pour 3 personnes | Temps : 1h*
+## 🍝 Lasagnes Maison (Végé & Omni)
+*Pour 3 personnes | Temps : 1h15*
 
 **Ingrédients :**
-- 1 paquet de feuilles de lasagnes | 500ml lait, 50g beurre, 50g farine (Béchamel)
-- 150g de fromage râpé.
-- **Végé :** 200g lentilles corail, 1 oignon, 400ml coulis tomate.
-- **Omni :** 300g bœuf haché, 1 oignon, 400ml coulis tomate.
+- Feuilles de lasagnes : 12 pièces
+- Lait : 500 ml | Beurre : 50 g | Farine : 50 g
+- Emmental râpé : 150 g
+- **Sauce Végé :** 200 g lentilles corail, 1 oignon, 400 g pulpe tomate, 1 carotte.
+- **Sauce Omni :** 300 g bœuf haché, 1 oignon, 400 g pulpe tomate.
 
-**Étapes :**
-1. **Béchamel :** Faire fondre beurre/farine, fouetter en ajoutant lait. Épaissir.
-2. **Sauces :** Faire mijoter (lentilles+tomate) ou (bœuf+tomate) séparément.
-3. **Montage :** Alterner Sauce > Pâtes > Béchamel > Fromage.
-4. **Cuisson :** 30 min à 180°C.
+**Préparation :**
+1. **La Béchamel :** Faire fondre le beurre, ajouter la farine, fouetter en versant le lait progressivement. Cuire jusqu'à épaississement. Saler, poivrer, muscade.
+2. **Les Sauces :** 
+   - *Végé :* Faire revenir oignon/carotte, ajouter lentilles et tomate. Mijoter 20 min.
+   - *Omni :* Faire revenir oignon/bœuf, ajouter tomate. Mijoter 15 min.
+3. **Montage :** Dans un plat, alterner : Sauce > Pâtes > Béchamel > Fromage.
+4. **Cuisson :** Enfourner 30 min à 180°C.
 
 ---
 
@@ -23,13 +26,15 @@
 *Pour 3 personnes | Temps : 25 min*
 
 **Ingrédients :**
-- 3 buns | Laitue, tomate, oignons frits.
-- **Protéines :** 2 steaks bœuf (Omni) + 1 Beyond Meat/Veggie (Végé).
+- Buns : 3 pièces
+- Laitue : 1 cœur | Tomate : 2 pièces | Oignons frits : 30 g
+- Sauce : 3 c.à.s mayonnaise + 1 c.à.s moutarde.
+- **Protéines :** 2 steaks bœuf (Omni) + 1 steak Beyond Meat (Végé).
 
-**Étapes :**
-1. **Préparation :** Toaster les pains.
-2. **Cuisson :** Saisir les steaks (3-4 min/face). Fondre le fromage dessus en fin de cuisson.
-3. **Montage :** Pain > Sauce > Salade/Tomate > Steak > Oignons.
+**Préparation :**
+1. **Préparation :** Laver la laitue et trancher les tomates. Toaster les buns à la poêle.
+2. **Cuisson :** Saisir les steaks (bœuf ou veggie) dans une poêle chaude (3-4 min par face). Ajouter le fromage sur les steaks en fin de cuisson.
+3. **Dressage :** Étaler la sauce sur le pain, ajouter salade, tomate, le steak fondant, et les oignons frits.
 
 ---
 
@@ -37,66 +42,32 @@
 *Pour 3 personnes | Temps : 30 min*
 
 **Ingrédients :**
-- 3 épis maïs, 2 courgettes, 1 poivron, 200g Halloumi.
-- **Omni :** 3 saucisses, 3 brochettes volaille.
+- Épis de maïs : 3 | Courgettes : 2 | Poivrons : 2 | Halloumi : 200 g
+- **Omni :** 3 saucisses | 3 brochettes de volaille.
+- Marinade : 4 c.à.s huile d'olive, herbes de Provence, sel, poivre.
 
-**Étapes :**
-1. **Cuisson Viande :** Saisir saucisses/brochettes 8-10 min.
-2. **Cuisson Végé :** Griller Halloumi, épis de maïs, légumes 3-4 min par face. Badigeonner d'huile/herbes.
+**Préparation :**
+1. **Légumes :** Couper les courgettes et poivrons en tronçons. Badigeonner avec la marinade.
+2. **Cuisson :**
+   - *Viandes :* Griller 8-10 min (bien surveiller).
+   - *Légumes & Halloumi :* Griller 3-4 min par face jusqu'à coloration.
+3. **Service :** Servir avec les épis de maïs grillés entiers.
 
 ---
 
-## 🥣 Poke Bowl (Rapide & Frais)
-*Temps : 15 min*
+## 🍲 Dahl de Lentilles Corail
+*Pour 3 personnes | Temps : 25 min*
 
 **Ingrédients :**
-- Base : Quinoa cuit, concombre, carottes râpées, edamames (si dispo).
-- **Végé :** Tofu fumé en cubes.
-- **Omni :** Saumon fumé ou thon en boîte.
-- Sauce : Soja, huile sésame, citron vert.
+- Lentilles corail : 250 g
+- Lait de coco : 400 ml
+- Oignon : 1 | Curry en poudre : 2 c.à.s | Coriandre fraîche
+- Naans : 3 pièces
 
-**Étapes :**
-1. Assembler la base quinoa.
-2. Ajouter crudités.
-3. Déposer la protéine choisie. Assaisonner avec la sauce.
-
----
-
-## 🌮 Fajitas & Tacos
-*Temps : 20 min*
-
-**Ingrédients :**
-- Tortillas, poivrons, oignons, salsa, guacamole.
-- **Végé :** Haricots rouges (Fajitas) / Lentilles épicées (Tacos).
-- **Omni :** Poulet émincé (Fajitas) / Bœuf haché (Tacos).
-
-**Étapes :**
-1. Saisir légumes + épices à la poêle.
-2. Saisir la protéine choisie à part.
-3. Servir tortillas chaudes + ingrédients au centre de la table pour montage individuel.
-
----
-
-## 🍲 Dahl de Lentilles Corail & Naans
-*Temps : 25 min*
-
-**Ingrédients :**
-- 250g lentilles corail, 400ml lait de coco, 1 oignon, 2 c.à.s curry.
-- Naans (du commerce).
-
-**Étapes :**
-1. Faire revenir oignons/curry.
-2. Ajouter lentilles et lait de coco + eau.
-3. Cuire 15 min jusqu'à ce que les lentilles soient tendres.
-4. Servir avec naans toastés.
-
----
-
-## 🥘 Quiche aux légumes & Risotto
-*Temps : 40 min*
-
-- **Quiche :** Pâte feuilletée + mélange œufs/crème + légumes (poireaux). Option : lardons ajoutés à part après cuisson pour les omni.
-- **Risotto :** Arborio, bouillon de légumes, champignons, oignons, parmesan. (Recette de base, cuire en ajoutant bouillon louche par louche).
+**Préparation :**
+1. **Base :** Faire revenir l'oignon émincé avec le curry.
+2. **Cuisson :** Ajouter les lentilles et le lait de coco + 200 ml d'eau. Laisser mijoter 15 min à feu doux.
+3. **Finition :** Ajouter la coriandre ciselée en fin de cuisson. Servir avec naans toastés.
 
 ---
 
