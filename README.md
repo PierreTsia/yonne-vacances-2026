@@ -19,7 +19,7 @@
 *   **Risotto aux Champignons**
 *   **Quiche aux Légumes**
 *   **Curry de Légumes Lait de coco**
-*   **Soupe épaisse & Bruschettas**
+*   **Méga Omelette aux Champignons**
 
 ---
 
@@ -29,3 +29,4 @@
 ---
 - **Principe :** Base végétarienne commune pour tout le monde. Protéines animales ajoutées à part pour Pierre et François.
 - **Repas :** Déjeuner + Dîner uniquement (petits-déjeuners libres).
+- **Plats Favoris :** BBQ, Lasagnes, Burgers maison.
