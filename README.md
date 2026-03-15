@@ -1,29 +1,29 @@
-# 🥗 Vacances Avril 2026 - Planning Repas (Yonne)
+# 🥗 Vacances Avril 2026 - Menu à la carte
 
 > **👉 [CLIQUEZ ICI POUR VOTER POUR VOS PLATS PRÉFÉRÉS](https://tally.so/r/2ErB7e)**
-> *Choisissez vos options préférées pour chaque repas !*
+> *Votez pour vos plats favoris et signalez ceux que vous voulez éviter. Iris générera le menu final et la liste de courses en fonction de vos votes !*
 
 **Dates :** 30/03 au 06/04 | **Participants :** Pierre, Virginie (Végé), François.
 
 ---
 
-## 📅 Planning des Options (À choisir)
+## 📅 Les Options (À cocher dans le formulaire)
 
-| Jour | Déjeuner (Option 1 OU Option 2) | Dîner (Option 1 OU Option 2) |
-| :--- | :--- | :--- |
-| **Lun 30** | Poke Bowl OU Fajitas | Lasagnes OU Dahl |
-| **Mar 31** | Buddha Bowl OU Salade Pâtes | Burgers Maison OU Risotto |
-| **Mer 01** | Quiche Légumes OU Poke Bowl | Soirée BBQ OU Feta Rôtie |
-| **Jeu 02** | Fajitas OU Tacos | Curry Légumes OU Lasagnes |
-| **Ven 03** | Buddha Bowl OU Salade Pâtes | Burgers Maison OU Dahl |
-| **Sam 04** | Poke Bowl OU Fajitas | Soirée BBQ OU Feta Rôtie |
-| **Dim 05** | Quiche Légumes OU Tacos | Curry Légumes OU Soupe |
+*   **Lasagnes Maison** (Végé & Omni)
+*   **Burgers Maison** (Steak Bœuf ou Veggie)
+*   **Soirée BBQ** (Grillades & Halloumi)
+*   **Dahl de Lentilles Corail**
+*   **Poke Bowl** (Tofu ou Poisson)
+*   **Feta rôtie aux légumes**
+*   **Fajitas / Tacos**
+*   **Risotto aux Champignons**
+*   **Quiche aux légumes**
 
 ---
 
 ## 📖 [Consultez les détails des recettes ici](RECETTES.md)
-*Chaque recette est détaillée (Ingrédients + Pas-à-pas).*
+*Chaque option a sa fiche technique détaillée (Ingrédients + Pas-à-pas).*
 
 ---
 - **Principe :** Base végétarienne commune pour tout le monde. Protéines animales ajoutées à part pour Pierre et François.
-- **Repas :** Déjeuner + Dîner uniquement (petits-déjeuners libres).
+- **Plats Favoris :** BBQ, Lasagnes, Burgers maison.
