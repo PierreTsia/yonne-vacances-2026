@@ -1,5 +1,8 @@
 # 🥗 Vacances Avril 2026 - Planning Repas (Yonne)
 
+> **👉 [CLIQUEZ ICI POUR VALIDER LE MENU OU SUGGÉRER DES PLATS](https://tally.so/r/2ErB7e)**
+> *Votre avis est essentiel pour que personne ne finisse affamé ou frustré !*
+
 **Dates :** 30/03 au 06/04 | **Participants :** Pierre, Virginie (Végétarienne), François.
 
 ---
