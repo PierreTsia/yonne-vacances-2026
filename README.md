@@ -1,7 +1,7 @@
-# 🥗 Vacances Avril 2026 - Menu à la carte
+# 🥗 Vacances Avril 2026 - Planning Repas (Yonne)
 
 > **👉 [CLIQUEZ ICI POUR VOTER POUR VOS PLATS PRÉFÉRÉS](https://tally.so/r/2ErB7e)**
-> *Choisissez 2 options par jour pour le Déjeuner et le Dîner. J'ajusterai la liste de courses en fonction du résultat !*
+> *Choisissez vos options préférées pour chaque repas !*
 
 **Dates :** 30/03 au 06/04 | **Participants :** Pierre, Virginie (Végé), François.
 
@@ -9,21 +9,21 @@
 
 ## 📅 Planning des Options (À choisir)
 
-| Jour | Déjeuner (Choisir 2 options) | Dîner (Choisir 2 options) |
+| Jour | Déjeuner (Option 1 OU Option 2) | Dîner (Option 1 OU Option 2) |
 | :--- | :--- | :--- |
-| **Lun 30** | Poke Bowl / Fajitas | Lasagnes / Dahl |
-| **Mar 31** | Buddha Bowl / Salade Pâtes | Burgers Maison / Risotto |
-| **Mer 01** | Quiche Légumes / Poke Bowl | Soirée BBQ / Feta Rôtie |
-| **Jeu 02** | Fajitas / Tacos | Curry de Légumes / Lasagnes |
-| **Ven 03** | Buddha Bowl / Salade Pâtes | Burgers Maison / Dahl |
-| **Sam 04** | Poke Bowl / Fajitas | Soirée BBQ / Feta Rôtie |
-| **Dim 05** | Quiche Légumes / Tacos | Curry de Légumes / Soupe |
+| **Lun 30** | Poke Bowl OU Fajitas | Lasagnes OU Dahl |
+| **Mar 31** | Buddha Bowl OU Salade Pâtes | Burgers Maison OU Risotto |
+| **Mer 01** | Quiche Légumes OU Poke Bowl | Soirée BBQ OU Feta Rôtie |
+| **Jeu 02** | Fajitas OU Tacos | Curry Légumes OU Lasagnes |
+| **Ven 03** | Buddha Bowl OU Salade Pâtes | Burgers Maison OU Dahl |
+| **Sam 04** | Poke Bowl OU Fajitas | Soirée BBQ OU Feta Rôtie |
+| **Dim 05** | Quiche Légumes OU Tacos | Curry Légumes OU Soupe |
 
 ---
 
 ## 📖 [Consultez les détails des recettes ici](RECETTES.md)
-*Chaque option a sa fiche technique détaillée (Ingrédients + Pas-à-pas).*
+*Chaque recette est détaillée (Ingrédients + Pas-à-pas).*
 
 ---
-- **Principe :** Base végétarienne commune. Protéines animales ajoutées à part pour Pierre et François.
-- **Plats Favoris :** BBQ, Lasagnes, Burgers maison.
+- **Principe :** Base végétarienne commune pour tout le monde. Protéines animales ajoutées à part pour Pierre et François.
+- **Repas :** Déjeuner + Dîner uniquement (petits-déjeuners libres).
