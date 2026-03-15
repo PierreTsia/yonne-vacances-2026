@@ -10,14 +10,16 @@
 ## 📅 Les Options (À cocher dans le formulaire)
 
 *   **Lasagnes Maison** (Végé & Omni)
-*   **Burgers Maison** (Steak Bœuf ou Veggie)
+*   **Burgers Maison** (Bœuf ou Veggie)
 *   **Soirée BBQ** (Grillades & Halloumi)
 *   **Dahl de Lentilles Corail**
 *   **Poke Bowl** (Tofu ou Poisson)
-*   **Feta rôtie aux légumes**
+*   **Feta rôtie aux lentilles et carottes**
 *   **Fajitas / Tacos**
 *   **Risotto aux Champignons**
-*   **Quiche aux légumes**
+*   **Quiche aux Légumes**
+*   **Curry de Légumes Lait de coco**
+*   **Soupe épaisse & Bruschettas**
 
 ---
 
@@ -26,4 +28,4 @@
 
 ---
 - **Principe :** Base végétarienne commune pour tout le monde. Protéines animales ajoutées à part pour Pierre et François.
-- **Plats Favoris :** BBQ, Lasagnes, Burgers maison.
+- **Repas :** Déjeuner + Dîner uniquement (petits-déjeuners libres).
