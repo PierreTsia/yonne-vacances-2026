@@ -1,45 +1,64 @@
 # 📖 Les Recettes Pas à Pas
 
-Voici les détails de préparation pour réussir nos repas de vacances. 
+---
+
+## 🍝 Lasagnes Maison (Base Végé & Bolognaise à part)
+*Pour 3 personnes | Temps : 1h*
+
+**Ingrédients :**
+- 1 paquet de feuilles de lasagnes (sans pré-cuisson)
+- 500ml de lait | 50g beurre | 50g farine (Béchamel)
+- 150g de fromage râpé (Emmental ou Parmesan)
+- **Base Végé :** 200g lentilles corail, 1 oignon, 400ml coulis de tomate, 1 carotte.
+- **Base Omni :** 300g bœuf haché, 1 oignon, 400ml coulis de tomate.
+
+**Étapes :**
+1. **La Béchamel :** Faire fondre le beurre, ajouter la farine, fouetter en ajoutant le lait petit à petit jusqu'à épaississement. Saler, poivrer, muscade.
+2. **Les Sauces :**
+   - *Végé :* Faire revenir oignon/carotte, ajouter lentilles et tomate, laisser mijoter 15 min.
+   - *Omni :* Faire revenir oignon/bœuf, ajouter tomate, laisser mijoter 10 min.
+3. **Montage :** Dans un plat, alterner : Sauce > Pâtes > Béchamel > Fromage. Répéter.
+4. **Cuisson :** Enfourner 30 min à 180°C.
 
 ---
 
-## 1. 🍝 Lasagnes (Base Végé & Bolognaise à part)
-*Temps : 45 min | Difficulté : Facile*
+## 🍔 Burgers Maison
+*Pour 3 personnes | Temps : 25 min*
 
-**Base commune :**
-1. Préparez une béchamel (50g beurre, 50g farine, 500ml lait, muscade).
-2. Cuisez vos feuilles de lasagnes (si besoin).
+**Ingrédients :**
+- 3 pains Burger (buns)
+- 1 cœur de laitue, 1 tomate coupée en rondelles, oignons frits.
+- Sauce : Mayo + Moutarde.
+- **Protéines :** 2 steaks hachés bœuf (Omni) + 1 steak Beyond Meat ou Veggie (Végé).
 
-**Végé (Virginie) :**
-- Utilisez une bolognaise de lentilles (lentilles corail cuites avec sauce tomate, oignons, carottes).
-- Montez les couches : Pâtes, Lentilles, Béchamel, Fromage.
-
-**Omni (Pierre & François) :**
-- Préparez une bolognaise classique (bœuf haché, oignons, sauce tomate).
-- Montez les couches : Pâtes, Bolognaise, Béchamel, Fromage.
-
----
-
-## 2. 🍔 Burgers Maison
-*Temps : 20 min | Difficulté : Facile*
-
-1. **Le pain :** Toastez les buns légèrement à la poêle.
-2. **La garniture :** Préparez une sauce (mayo/moutarde/oignon).
-3. **La cuisson :**
-    - **Omni :** Saisir les steaks de bœuf 3 min de chaque côté.
-    - **Végé :** Saisir les steaks "Beyond Meat" ou galettes de légumes.
-4. **Montage :** Pain > Sauce > Salade/Tomate > Steak > Fromage > Oignons frits > Pain.
+**Étapes :**
+1. **Préparation :** Toaster les pains 1 min à la poêle.
+2. **Cuisson :**
+   - Saisir les steaks (bœuf ou veggie) dans une poêle chaude avec un filet d'huile. 3-4 min par face.
+   - Poser le fromage sur les steaks en fin de cuisson pour qu'il fonde.
+3. **Montage :**
+   - Étaler la sauce sur le pain.
+   - Ajouter salade/tomate.
+   - Déposer le steak fondant.
+   - Saupoudrer d'oignons frits.
+4. **Service :** Fermer et déguster immédiatement.
 
 ---
 
-## 3. 🔥 Soirée BBQ
-*Temps : dépend des grillades | Difficulté : Moyen*
+## 🔥 Soirée BBQ
+*Pour 3 personnes | Temps : 30 min*
 
-1. **Préparation :** Faites mariner les viandes et le halloumi (huile d'olive, herbes de Provence).
-2. **Le Végé :** Mettez les épis de maïs à griller 15 min. Faites griller l'Halloumi 3 min par face.
-3. **L'Omni :** Saisissez les saucisses et brochettes sur la zone la plus chaude du grill.
-4. **Service :** Proposez des sauces variées à part (tzatziki, barbecue, moutarde).
+**Ingrédients :**
+- 3 épis de maïs, 2 courgettes, 1 poivron, 200g Halloumi.
+- **Omni :** 3 saucisses, 3 brochettes de volaille.
+- Marinade : Huile d'olive, herbes de Provence, sel, poivre.
+
+**Étapes :**
+1. **Préparation :** Couper les légumes en tronçons. Couper l'Halloumi en tranches épaisses.
+2. **Le BBQ :**
+   - *Zone chaude :* Griller les saucisses et brochettes (viande) 8-10 min.
+   - *Zone moyenne :* Griller les légumes (maïs/courgettes) et l'Halloumi 3-4 min par face.
+3. **Astuce :** Badigeonner les légumes avec la marinade pendant la cuisson pour éviter qu'ils ne sèchent.
 
 ---
 
