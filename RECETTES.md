@@ -8,23 +8,15 @@
 *Pour 3 pers. | Temps : 1h15*
 
 **Ingrédients :**
-- Feuilles de lasagnes : 1 paquet
-- Lait : 500 ml
-- Beurre : 50 g
-- Farine : 50 g
-- Emmental râpé : 150 g
-- Coulis de tomate : 800 g
-- Oignons : 2 pièces
-- Ail : 2 gousses
-- **Végé :** Lentilles corail : 200 g
-- **Omni :** Bœuf haché : 300 g
-- Sel & poivre : au goût (dans votre placard)
+- 1 paquet de feuilles de lasagnes | 500ml lait, 50g beurre, 50g farine (Béchamel) | 150g Emmental râpé
+- **Base commune :** Coulis de tomate (800g), 2 oignons, 2 gousses d'ail.
+- **Végé :** 200g lentilles corail. | **Omni :** 300g bœuf haché.
 
 **Préparation :**
-1. **La Béchamel.** Faire fondre le beurre dans une casserole, ajouter la farine et fouetter. Verser le lait progressivement en fouettant jusqu'à épaississement. Saler, poivrer, muscade.
-2. **Les Sauces.** Épluchez et hachez les oignons et l'ail. Dans deux sauteuses, faites revenir oignon/ail. *Végé :* Ajoutez lentilles et pulpe de tomate, mijotez 20 min. *Omni :* Ajoutez bœuf, dorez, puis tomate, mijotez 15 min.
-3. **Montage.** Dans un plat à four, disposez une couche de sauce, des feuilles de lasagnes, de la béchamel, puis le fromage. Répétez l'opération.
-4. **Cuisson.** Enfournez 30 min à 180°C. Dégustez bien chaud !
+1. **Béchamel :** Faire fondre beurre/farine, fouetter en ajoutant lait progressivement. Cuire jusqu'à épaississement.
+2. **Sauces :** Faire revenir oignons/ail. Séparer en deux. *Végé :* Ajouter lentilles et tomate (20 min). *Omni :* Ajouter bœuf et tomate (15 min).
+3. **Montage :** Alterner Sauce > Pâtes > Béchamel > Fromage.
+4. **Cuisson :** 30 min à 180°C.
 
 ---
 
@@ -32,18 +24,14 @@
 *Pour 3 pers. | Temps : 25 min*
 
 **Ingrédients :**
-- Buns : 3 pièces
-- Laitue : 1 cœur
-- Tomate : 2 pièces
-- Oignons frits : 30 g
-- Mayonnaise : 3 c.à.s | Moutarde : 1 c.à.s
-- **Omni :** Steaks bœuf : 2 pièces
-- **Végé :** Steaks Beyond Meat/Veggie : 1 pièce
+- 3 buns | Laitue, tomate, oignons frits (30g).
+- Sauce : 3 c.à.s mayo, 1 c.à.s moutarde.
+- **Protéines :** 2 steaks bœuf (Omni) + 1 steak Beyond Meat (Végé).
 
 **Préparation :**
-1. **Préparation.** Lavez la salade et coupez les tomates en rondelles. Toaster les pains 1 min à la poêle.
-2. **Cuisson.** Chauffez une poêle. Saisissez les steaks (bœuf ou veggie) pendant 3-4 min par face. Ajoutez le fromage sur les steaks en fin de cuisson pour qu'il fonde.
-3. **Montage.** Mélangez mayo et moutarde. Étalez sur le pain. Superposez : Pain > Sauce > Salade > Tomate > Steak > Oignons frits. Fermez.
+1. Toaster les pains 1 min. Laver salade/tomate.
+2. Saisir les steaks (bœuf ou veggie) (3-4 min/face). Fondre le fromage dessus en fin de cuisson.
+3. **Dressage :** Pain > Sauce > Salade/Tomate > Steak > Oignons frits > Pain.
 
 ---
 
@@ -51,31 +39,13 @@
 *Pour 3 pers. | Temps : 30 min*
 
 **Ingrédients :**
-- Épis de maïs : 3 | Courgettes : 2 | Poivron : 1 | Halloumi : 200 g
-- **Omni :** Saucisses : 3 | Brochettes volaille : 3
-- Huile d'olive : 4 c.à.s | Herbes de Provence : 1 c.à.s | Sel & poivre
+- 3 épis maïs, 2 courgettes, 1 poivron, 200g Halloumi.
+- **Omni :** 3 saucisses, 3 brochettes volaille.
+- Marinade : 4 c.à.s huile d'olive, herbes de Provence, sel, poivre.
 
 **Préparation :**
-1. **Préparation.** Coupez les courgettes et le poivron en tronçons. Badigeonnez tous les légumes et le halloumi avec le mélange huile/herbes/sel/poivre.
-2. **Cuisson Viande.** Sur le grill chaud, saisissez saucisses et brochettes (8-10 min).
-3. **Cuisson Végé.** Grillez Halloumi, légumes et maïs 3-4 min par face. Badigeonnez régulièrement avec la marinade restante.
-
----
-
-## 🥗 Feta rôtie aux lentilles et carottes
-*Pour 3 pers. | Temps : 40 min*
-
-**Ingrédients :**
-- Feta : 300 g | Olives noires : 80 g | Carotte : 600 g | Pulpe de tomate : 400 g
-- Lentilles vertes : 200 g | Oignon rouge : 1 pièce | Graines de cumin : 2 g | Coriandre en poudre : 2 g
-- Eau : 800 ml (placard) | Huile d'olive : 2 traits | Sel & poivre : 2 pincées
-
-**Préparation :**
-1. **Pour commencer.** Épluchez et coupez les carottes en bâtonnets. Épluchez et coupez l'oignon rouge en quartiers. Coupez les olives en rondelles.
-2. **Et que ça chauffe !** Préchauffez le four à 200°C. Faites suer l'oignon 1 min dans l'huile d'olive. Ajoutez carottes, cumin et coriandre, faites suer 2 min de plus.
-3. **Touche de rouge.** Ajoutez lentilles, pulpe de tomate, olives et l'eau. Couvrez et laissez mijoter 20 min. Salez et poivrez à mi-cuisson.
-4. **Un tour au four.** Égouttez la feta, disposez-la dans un plat à four, arrosez d'huile, poivrez. Enfournez 20 min jusqu'à ce qu'elle soit fondante.
-5. **Feta ci, feta ça.** Vérifiez la tendreté des légumes. Servez accompagnés de la feta rôtie.
+1. Couper courgettes et poivrons. Badigeonner avec la marinade.
+2. *Viandes :* Griller 8-10 min. *Végé/Légumes :* Griller Halloumi, légumes et maïs (3-4 min/face). Badigeonner régulièrement.
 
 ---
 
@@ -83,13 +53,12 @@
 *Pour 3 pers. | Temps : 25 min*
 
 **Ingrédients :**
-- Lentilles corail : 250 g | Lait de coco : 400 ml | Oignon : 1 | Curry : 2 c.à.s | Coriandre fraîche
-- Naans : 3 pièces
+- 250g lentilles corail, 400ml lait de coco, 1 oignon, 2 c.à.s curry, coriandre fraîche, 3 naans.
 
 **Préparation :**
-1. **Début.** Faites revenir l'oignon émincé avec le curry.
-2. **Mijotage.** Ajoutez les lentilles et le lait de coco + 200 ml d'eau. Mijotez 15 min à feu doux.
-3. **Finition.** Ajoutez la coriandre ciselée en fin de cuisson. Servez avec naans toastés.
+1. Faire revenir oignon/curry.
+2. Ajouter lentilles + lait de coco + 200ml eau. Mijoter 15 min.
+3. Finir avec coriandre fraîche. Servir avec naans.
 
 ---
 
@@ -97,30 +66,42 @@
 *Pour 3 pers. | Temps : 15 min*
 
 **Ingrédients :**
-- Quinoa cuit : 300 g | Concombre : 1 | Carottes râpées : 200 g | Edamames : 100 g
+- 300g Quinoa cuit, concombre, carottes râpées, edamames.
 - **Végé :** Tofu fumé. | **Omni :** Saumon fumé ou thon.
 - Sauce : 4 c.à.s soja, 1 c.à.s huile sésame, jus citron vert.
 
 **Préparation :**
-1. **Assemblage.** Disposez le quinoa au fond des bols.
-2. **Crudités.** Ajoutez le concombre en dés, les carottes et les edamames.
-3. **Protéine.** Déposez le tofu ou le poisson.
-4. **Finition.** Mélangez les ingrédients de la sauce et versez sur le bol.
+1. Assembler base quinoa + crudités dans des bols.
+2. Déposer la protéine. Napper de sauce.
 
 ---
 
-## 🌮 Fajitas / Tacos
+## 🥗 Feta rôtie aux lentilles et carottes
+*Pour 3 pers. | Temps : 40 min*
+
+**Ingrédients :**
+- Feta (300g), lentilles vertes (200g), carottes (600g), pulpe tomate (400g), oignon (1), olives noires (80g), cumin/coriandre (2g).
+
+**Préparation :**
+1. Couper carottes en bâtonnets, oignon en quartiers.
+2. Faire revenir oignon/épices. Ajouter carottes (2 min).
+3. Ajouter lentilles, pulpe tomate, olives, 800ml eau. Mijoter 20 min.
+4. Feta : Arroser huile/poivre, enfourner 20 min à 200°C.
+5. Servir légumes fondants avec feta rôtie.
+
+---
+
+## 🌮 Fajitas & Tacos
 *Pour 3 pers. | Temps : 20 min*
 
 **Ingrédients :**
 - Tortillas, poivrons, oignons, salsa, guacamole.
-- **Végé :** 400g haricots rouges (Fajitas) ou lentilles (Tacos).
-- **Omni :** 300g poulet émincé (Fajitas) ou bœuf haché (Tacos).
+- **Végé :** Haricots rouges/lentilles (200g). | **Omni :** Poulet émincé/Bœuf haché (300g).
 
 **Préparation :**
-1. **Légumes.** Faites sauter les poivrons/oignons avec épices (paprika/cumin).
-2. **Protéine.** Saisissez la protéine choisie séparément avec les mêmes épices.
-3. **Service.** Servez les tortillas tièdes, les légumes et la protéine au centre pour montage individuel.
+1. Sauter légumes/oignons/épices.
+2. Saisir protéine séparément.
+3. Servir tortillas tièdes avec ingrédients au centre.
 
 ---
 
@@ -128,13 +109,12 @@
 *Pour 3 pers. | Temps : 35 min*
 
 **Ingrédients :**
-- Riz Arborio : 250 g | Bouillon légumes : 750 ml | Champignons : 300 g | Oignon : 1 | Parmesan : 50 g
+- 250g riz Arborio, 750ml bouillon chaud, 300g champignons, 1 oignon, 50g parmesan.
 
 **Préparation :**
-1. **Base.** Faites revenir oignon et champignons.
-2. **Riz.** Ajoutez le riz, remuez jusqu'à transparence.
-3. **Cuisson.** Ajoutez le bouillon louche par louche, en attendant l'absorption entre chaque.
-4. **Finition.** Ajoutez le parmesan en fin de cuisson.
+1. Faire revenir oignon/champignons. Ajouter riz, remuer jusqu'à transparence.
+2. Ajouter bouillon louche par louche (attendre absorption).
+3. Finir avec parmesan.
 
 ---
 
@@ -142,13 +122,40 @@
 *Pour 3 pers. | Temps : 40 min*
 
 **Ingrédients :**
-- Pâte feuilletée : 1 | Œufs : 3 | Crème fraîche : 20 cl | Poireaux/Légumes : 300 g
+- 1 Pâte feuilletée, 3 œufs, 20cl crème, 300g légumes (poireaux).
 
 **Préparation :**
-1. **Légumes.** Faites revenir les légumes à la poêle.
-2. **Appareil.** Mélangez œufs et crème.
-3. **Montage.** Garnissez la pâte, versez le mélange.
-4. **Cuisson.** 30 min à 180°C.
+1. Faire revenir légumes.
+2. Mélanger œufs/crème.
+3. Garnir la pâte avec légumes, verser mélange.
+4. Cuire 30 min à 180°C.
+
+---
+
+## 🍛 Curry de Légumes Lait de Coco
+*Pour 3 pers. | Temps : 30 min*
+
+**Ingrédients :**
+- Mélange légumes de saison (courge, pois chiches, brocolis), 400ml lait de coco, 2 c.à.s curry, 1 oignon.
+- **Omni :** Option poulet émincé à part.
+
+**Préparation :**
+1. Faire revenir oignon/curry.
+2. Ajouter légumes + lait de coco + 100ml eau. Mijoter 20 min.
+3. Cuire poulet à part pour les omni. Servir avec riz (facultatif).
+
+---
+
+## 🥣 Soupe épaisse & Bruschettas
+*Pour 3 pers. | Temps : 30 min*
+
+**Ingrédients :**
+- Soupe (Légumes mixés : potiron/pommes de terre/carottes), Pain de campagne, tomate, ail, huile olive.
+
+**Préparation :**
+1. Cuire légumes (bouillir 20 min) et mixer.
+2. Toaster le pain, frotter avec une gousse d'ail, déposer dés de tomates.
+3. Servir chaud.
 
 ---
 
