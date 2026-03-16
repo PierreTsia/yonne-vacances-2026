@@ -3,7 +3,11 @@
 > **👉 [CLIQUEZ ICI POUR VOTER POUR VOS PLATS PRÉFÉRÉS](https://tally.so/r/2ErB7e)**
 > *Votez pour vos plats favoris et signalez ceux que vous voulez éviter. Iris générera le menu final et la liste de courses en fonction de vos votes !*
 
-**Dates :** 30/03 au 06/04 | **Participants :** Pierre, Virginie (Végé), François.
+**Dates :** 30/03 au 06/04
+
+**Participants :** 
+*   **Pierre & Virginie :** Semaine complète (30/03 au 06/04).
+*   **François :** Du lundi 30/03 au mercredi 01/04 matin.
 
 ---
 
