@@ -1,3 +1,4 @@
+
 # 📖 Les Recettes Pas à Pas
 
 [Retour à la page d'accueil](README.md)
@@ -92,7 +93,7 @@
 
 ---
 
-## 🌮 Fajitas / Tacos
+## 🌮 Fajitas & Tacos
 *Pour 3 pers. | Temps : 20 min*
 
 **Ingrédients :**
@@ -148,6 +149,19 @@
 
 ---
 
+## 🥣 Soupe épaisse & Bruschettas
+*Pour 3 pers. | Temps : 30 min*
+
+**Ingrédients :**
+- Soupe (Légumes mixés : potiron/pommes de terre/carottes), Pain de campagne, tomate, ail, huile olive.
+
+**Préparation :**
+1. Cuire légumes (bouillir 20 min) et mixer.
+2. Toaster le pain, frotter avec une gousse d'ail, déposer dés de tomates.
+3. Servir chaud.
+
+---
+
 ## 🍳 Méga Omelette aux Champignons
 *Pour 3 pers. | Temps : 15 min*
 
@@ -159,6 +173,45 @@
 2. **Omelette :** Battre les œufs, saler, poivrer. Verser dans la poêle chaude.
 3. **Cuisson :** Ajouter les champignons, laisser cuire jusqu'à texture baveuse.
 4. **Service :** Plier l'omelette en deux et servir avec une salade verte croquante.
+
+---
+
+## 🍅 Shakshouka à la Feta & Pois Chiches Rôtis
+
+**Ingrédients :**
+- Feta (150 g)
+- Pois chiches (1 boîte)
+- Pulpe de tomate (600 g)
+- Riz (300 g)
+- Oignon rouge (1)
+- Cumin (6 g)
+- Persil frais
+- Œufs (8 pièces pour 4 personnes)
+- Huile d'olive, Sucre, Sel, Poivre
+
+**Préparation :**
+
+1. **Mise en place :**
+   - Faites bouillir une casserole d'eau salée pour cuire le riz.
+   - Émincez finement l'oignon rouge.
+   - Égouttez et rincez les pois chiches.
+   - Ciselez le persil frais.
+
+2. **La base :**
+   - Cuisez le riz.
+   - Dans une grande poêle huilée, faites suer la moitié de l'oignon rouge (1-2 min).
+
+3. **Cuisson :**
+   - Ajoutez les pois chiches et le cumin. Faites dorer 2-3 min.
+   - Versez la pulpe de tomate, salez, poivrez, ajoutez deux pincées de sucre.
+   - Couvrez partiellement et laissez cuire 4-5 min.
+
+4. **Les œufs :**
+   - Formez des puits dans la sauce, cassez les œufs dedans.
+   - Couvrez et laissez cuire 5 min à feu doux.
+
+5. **Service :**
+   - Servez avec le riz, parsemez de feta émiettée, du reste d'oignon cru et de persil.
 
 ---
 
