@@ -215,4 +215,22 @@
 
 ---
 
+## 🍝 Pâtes à la Méditerranéenne
+*Pour 3 pers. | Temps : 20 min*
+
+**Ingrédients :**
+- 500g Pâtes (Penne ou Fusilli)
+- 300g Tomates cerises
+- 100g Feta
+- 100g Olives noires dénoyautées
+- 2 gousses d'ail, persil/basilic, huile d'olive.
+
+**Préparation :**
+1. **Pâtes :** Cuire les pâtes al dente.
+2. **Sauce :** Dans une grande poêle, faire revenir l'ail émincé dans l'huile d'olive. Ajouter les tomates cerises coupées en deux. Faire cuire 5 min jusqu'à ce qu'elles éclatent.
+3. **Mélange :** Ajouter les olives et les pâtes égouttées dans la poêle. Mélanger 1 min.
+4. **Service :** Servir chaud avec la feta émiettée par-dessus et les herbes fraîches ciselées.
+
+---
+
 [Retour à la page d'accueil](README.md)
